@@ -11,7 +11,7 @@ const prefix = '$';
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`لتشغيل الاغانى $play لى ايقاف الاغنية $stop`,"https://www.twitch.tv/Anime & Games")
+client.user.setGame(`$play westcost`,"https://www.twitch.tv/Anime & Games")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
